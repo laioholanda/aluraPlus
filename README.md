@@ -16,8 +16,7 @@
 
 - `Funcionalidade 1ª`: Criação de Cabeçalho:
   <p align = "center">
-      <img src ="https://github.com/user-attachments/assets/e19e172f-b38c-47a0-95e2-996880fc16db"
->
+      <img src ="https://github.com/user-attachments/assets/e19e172f-b38c-47a0-95e2-996880fc16db">
   </p>
 
   
