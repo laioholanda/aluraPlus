@@ -18,11 +18,15 @@
   <p align = "center">
      <img src ="https://github.com/user-attachments/assets/31806505-98f5-4efe-a680-311308354f77">
   </p>
+  <p <p style="text-align: center;">
+    Um cabeçalho atrativo e moderno é crucial para a primeira impressão de um site. Ele captura a atenção dos visitantes imediatamente, facilita a navegação, e reforça a identidade da marca. Um bom cabeçalho transmite profissionalismo e confiabilidade, e deve ser responsivo, garantindo uma experiência coesa e agradável em qualquer dispositivo. Em resumo, um cabeçalho bem projetado melhora a usabilidade, a estética e a credibilidade do site.
+  </p>
   <br>
 - `Funcionalidade 2ª`: Entendimento da utilização do grid:
 <p align="center">
     <img src="https://github.com/user-attachments/assets/d1eb17a3-5b12-48a1-a38c-e1c350c07a7b">
 </p>
+<br>
 - `Funcionalidade 2ª`: Entendimento da tag section:
   
 - `Funcionalidade 3ª`: Entendimento da tag footer:
