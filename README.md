@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/badge/Em%20desenvolvimento-gren">
+<img src="[https://img.shields.io/badge/Em%20desenvolvimento-gren](https://img.shields.io/badge/Status%20-%20Em%20desenvolvimento%20-%20purple
+)">
 
 # <h1 align="center">Alura Plus </h1>
 
