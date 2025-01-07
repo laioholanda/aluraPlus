@@ -14,10 +14,14 @@
 
 # :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 1ª`: descrição da funcionalidade 1
+  <p>
+      <img src =(https://github.com/user-attachments/assets/e18e5d04-c841-4b98-af80-cf7e00fb5791)>
+
+  </p>
+- `Funcionalidade 2ª`: descrição da funcionalidade 2
+- `Funcionalidade 3ª`: descrição da funcionalidade 2a relacionada à funcionalidade 2
+- `Funcionalidade 4ª`: descrição da funcionalidade 3
 
 
 # Índice 
