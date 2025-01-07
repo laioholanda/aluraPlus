@@ -8,7 +8,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;O projeto Alura Plus é um exercício acadêmico de front-end que envolve a criação de uma landing page para um cliente fictício. O objetivo é desenvolver habilidades iniciais em HTML e CSS, promovendo o Alura Plus, um serviço imaginário online. A página inclui um cabeçalho, imagens centralizadas e seções informativas sobre os benefícios do serviço. Este projeto oferece uma base prática essencial para estudantes que desejam iniciar sua jornada no desenvolvimento web.
 
-> :construction: Projeto em construção :construction:
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
 
 # Índice 
 
