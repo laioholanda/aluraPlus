@@ -34,6 +34,12 @@
 # 📁ACESSE O PROJETO:
 * <img src="https://github.com/user-attachments/assets/3a8ff656-23af-4c26-b63b-1f7d5ae4f061">&nbsp;&nbsp;Clique <a href = "https://github.com/laioholanda/aluraPlus.git"> Aqui</a>
 
+# Autor do Projeto
+
+<img src="https://github.com/user-attachments/assets/c909793f-bbfb-47eb-8fb8-9d3e70003102" style="width: 100px">
+<br>
+Laio V&nbsp;H Lopes
+
 
 # Índice
 
