@@ -6,7 +6,6 @@
 <img src="https://github.com/user-attachments/assets/5f58059f-3262-4026-afba-2b9df38f8baf" alt="Image de um rapaz negro mergulhando no mundo do front-end">
 </p>
 
-descrição resumida em um parágrafo
 O projeto Alura Plus consiste na criação de uma landing page para um cliente hipotético, com o objetivo de desenvolver conhecimentos básicos de HTML e CSS. A página promove o Alura Plus, um serviço fictício de aprendizado online, e deve incluir cabeçalho, imagem principal, seções informativas sobre os benefícios do serviço e um rodapé com informações de contato. Este projeto é ideal para iniciantes, oferecendo uma base prática para a estruturação e estilização de páginas web.
 
 # Índice 
