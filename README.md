@@ -16,8 +16,14 @@
 
 - `Funcionalidade 1ª`: Criação de Cabeçalho:
   <p align = "center">
-      <img src ="https://github.com/user-attachments/assets/e18e5d04-c841-4b98-af80-cf7e00fb5791">
+      <img src ="https://github.com/user-attachments/assets/e19e172f-b38c-47a0-95e2-996880fc16db"
+>
   </p>
+
+  
+
+
+
 - `Funcionalidade 2ª`: Entendimento da <tag> <section>:
   
 - `Funcionalidade 3ª`: Entendimento da <tag> <footer>:
