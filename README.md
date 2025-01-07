@@ -32,7 +32,7 @@
 - `Funcionalidade 3ª`: Entendimento da tag footer:
   
 # 📁ACESSE O PROJETO:
-* <img src="https://github.com/user-attachments/assets/3a8ff656-23af-4c26-b63b-1f7d5ae4f061">&nbsp;&nbsp;Clique <a href = "https://github.com/laioholanda/aluraPlus.git"> Aqui</a>
+* <img src="https://github.com/user-attachments/assets/3a8ff656-23af-4c26-b63b-1f7d5ae4f061">&nbsp;&nbsp;Clique[Aqui](https://github.com/laioholanda/aluraPlus.git)
 
 # Autor do Projeto
 
