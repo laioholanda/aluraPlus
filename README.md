@@ -17,16 +17,14 @@
 - `Funcionalidade 1ª`: Criação de Cabeçalho:
   <p align = "center">
      <img src ="https://github.com/user-attachments/assets/31806505-98f5-4efe-a680-311308354f77">
-
   </p>
-
+- `Funcionalidade 2ª`: Entendimento da utilização do grid:
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/d1eb17a3-5b12-48a1-a38c-e1c350c07a7b">
+</p>
+- `Funcionalidade 2ª`: Entendimento da tag section:
   
-
-
-
-- `Funcionalidade 2ª`: Entendimento da <tag> <section>:
-  
-- `Funcionalidade 3ª`: Entendimento da <tag> <footer>:
+- `Funcionalidade 3ª`: Entendimento da tag footer:
   
 
 
