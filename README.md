@@ -16,7 +16,7 @@
 
 - `Funcionalidade 1ª`: descrição da funcionalidade 1
   <p>
-      <img src =(https://github.com/user-attachments/assets/e18e5d04-c841-4b98-af80-cf7e00fb5791)>
+      <img src ="https://github.com/user-attachments/assets/e18e5d04-c841-4b98-af80-cf7e00fb5791">
 
   </p>
 - `Funcionalidade 2ª`: descrição da funcionalidade 2
