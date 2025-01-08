@@ -3,7 +3,7 @@
 :root{
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
-    --botao-azul: #1672e1;
+    --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte-principal: "Inter", serif;
 }
@@ -166,8 +166,44 @@ body{
     color: purple;
 }
 
-.guia{
-    background-image: url(img/Sem\ Título-1.png);
-    background-repeat: no-repeat;
-    background-size: contain;
+
+@media screen and (max-width: 768px) {
+    
+    .container {
+        display: block;
+        background-image: none;
+        width: 80vh;
+    }
+
+    .principal{
+        margin: 3% 10% 0 1%;
+    }
+    .container__imagem{
+        width:50vw;
+    }
+
+    .container__caixa{
+        margin: 0 0 0 0;
+        text-align: center;
+        padding: 8%;
+    }
+
+    .secundario{
+        margin: 0;
+        text-align: center;
+    }
+
+    .secundario__imagem{
+        width: 50vw;
+    }
+
+    .dispositivos__listas{
+        display: block;
+    }
+    .rodape__lista{
+        display: block;
+    }
+    .secundario__imagem{
+        width: 50vw;
+    }
 }
