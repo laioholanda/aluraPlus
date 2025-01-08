@@ -191,7 +191,8 @@ body{
 
     .secundario{
         text-align: center;
-        margin: 8%;
+        margin: 0;
+        padding: 8%;
     }
 
     .secundario__imagem{
@@ -210,12 +211,17 @@ body{
     .dispositivos{
         display: block;
         align-items: center;
-        margin: 8%;
+        padding: 8%;
     }
 
   .combo{
     display: flex;
     flex-direction: column-reverse;
+    justify-content: center;
     gap: 20px;
+  }
+
+  .not{
+    padding: 10em 0 0 0;
   }
 }
