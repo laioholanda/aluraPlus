@@ -207,6 +207,13 @@ body{
         width: 50vw;
     }
     .dispositivos{
-        text-align: center;
+        align-items: center;
+        width: 80vh;
     }
+
+    .rodape{
+        width: 80vh;
+        margin: 4%;
+    }
+   
 }
