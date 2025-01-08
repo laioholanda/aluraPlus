@@ -207,12 +207,13 @@ body{
         width: 50vw;
     }
     .dispositivos{
+        width: 100vh;
+        display: block;
         align-items: center;
-        width: 80vh;
     }
 
     .rodape{
-        width: 80vh;
+        width: 100vh;
         margin: 4%;
     }
    
