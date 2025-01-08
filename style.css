@@ -176,6 +176,7 @@ body{
     .container {
         display: block;
         background-image: none;
+        height: 500px;
     }
 
   
@@ -211,7 +212,7 @@ body{
     .dispositivos{
         display: block;
         align-items: center;
-        padding: 8%;
+        padding: 4%;
     }
 
   .combo{
@@ -221,7 +222,8 @@ body{
     gap: 20px;
   }
 
-  .not{
-    padding: 10em 0 0 0;
+  .rodape{
+    margin: 0;
   }
+
 }
