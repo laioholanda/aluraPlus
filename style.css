@@ -206,4 +206,7 @@ body{
     .secundario__imagem{
         width: 50vw;
     }
+    .dispositivos{
+        text-align: center;
+    }
 }
