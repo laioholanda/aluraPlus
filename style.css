@@ -169,15 +169,16 @@ body{
 
 @media screen and (max-width: 768px) {
     
+    body{
+        margin: 0;
+        padding: 0;
+    }
     .container {
         display: block;
         background-image: none;
-        width: 80vh;
     }
 
-    .principal{
-        margin: 3% 10% 0 1%;
-    }
+  
     .container__imagem{
         width:50vw;
     }
@@ -189,8 +190,8 @@ body{
     }
 
     .secundario{
-        margin: 0;
         text-align: center;
+        margin: 8%;
     }
 
     .secundario__imagem{
@@ -207,14 +208,14 @@ body{
         width: 50vw;
     }
     .dispositivos{
-        width: 100vh;
         display: block;
         align-items: center;
+        margin: 8%;
     }
 
-    .rodape{
-        width: 100vh;
-        margin: 4%;
-    }
-   
+  .combo{
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 20px;
+  }
 }
